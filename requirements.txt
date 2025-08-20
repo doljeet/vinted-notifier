@@ -1,0 +1,6 @@
+requests
+python-dotenv
+beautifulsoup4
+lxml
+pytelegrambotapi
+vinted-api-wrapper
